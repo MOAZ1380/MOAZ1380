@@ -27,12 +27,6 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 
 ---
 
-### ⚡ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
----
 
 ### 💡 My Favorites:
 - 🚀 Exploring **new technologies** and **solving algorithmic challenges**.
