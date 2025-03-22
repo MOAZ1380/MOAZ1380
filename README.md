@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm [Moaz Sayed!](https://github.com/moaz)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/moaz-sayed)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:moaz.sayed@example.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:moaz469654@gmail.com)
 
 ### 🚀 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moaz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
@@ -27,7 +27,7 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 ---
 
 ### 💬 Let's Connect:
-📧 Email: [moaz469654@gmail.com](mailto:moaz.sayed@example.com)  
+📧 Email: [Moaz Sayed](mailto:moaz469654@gmail.com)  
 💼 LinkedIn: [Moaz Sayed](https://linkedin.com/in/moaz-sayed)  
 
 
