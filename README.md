@@ -8,8 +8,6 @@
 
 I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solving and building scalable applications using **Python, JavaScript, Flask, Node.js, MySQL, and PostgreSQL**.
 
-💻 I'm currently working on **backend projects** and **API development** using Flask, FastAPI, and Express.js.  
-
 ---
 
 ### 🛠 Tech Stack:
@@ -19,13 +17,6 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaz&show_icons=true&count_private=true&theme=dracula" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaz&layout=compact&langs_count=6&theme=dracula" height="180px" alt="Top Languages" />
-</div>
-
----
 
 
 ### 💡 My Favorites:
