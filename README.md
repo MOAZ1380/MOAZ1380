@@ -30,10 +30,5 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 📧 Email: [moaz.sayed@example.com](mailto:moaz.sayed@example.com)  
 💼 LinkedIn: [Moaz Sayed](https://linkedin.com/in/moaz-sayed)  
 
----
-
-<div align="center">
-
-### Show some ❤️ by starring some of my repositories!
 
 </div>
