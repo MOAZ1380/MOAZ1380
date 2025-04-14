@@ -27,8 +27,8 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 ---
 
 ### 💬 Let's Connect:
-📧 Email: [Moaz Sayed](mailto:moaz469654@gmail.com)  
-💼 LinkedIn: [Moaz Sayed](https://linkedin.com/in/moaz-sayed)  
+📧 Email: [Moaz Sayed](mailto:moaz.sayed.said@gmail.com)  
+💼 LinkedIn: [Moaz Sayed](www.linkedin.com/in/moaz-sayed-said)  
 
 
 </div>
