@@ -12,7 +12,7 @@ I'm a **Backend Developer** from Egypt 🇪🇬, passionate about problem-solvin
 
 ### 🛠 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,nodejs,express,mysql,postgres,mongodb,docker,git,linux" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,nodejs,express,mysql,postgres,mongodb,nest,docker,git,linux" height="40" alt="Tech Stack" />
 </p>
 
 ---
