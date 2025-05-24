@@ -11,8 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/moaz-sayed-said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz-sayed-said" height="30" width="40" /></a>
 <a href="https://fb.com/moaz.sayed.469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moaz.sayed.469" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muov" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@moaz469654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@moaz469654" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/P3N9SRqUwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
